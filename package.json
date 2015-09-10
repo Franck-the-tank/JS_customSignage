@@ -1,0 +1,22 @@
+{
+  "name": "js_customsignage",
+  "version": "1.0.0",
+  "description": "A first Javascript exercise for the communication between server and page the repository wil contain a webpage that is countoing the number of words of name put into a text box and associate it with a price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franck-the-tank/JS_customSignage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franck-the-tank/JS_customSignage/issues"
+  },
+  "homepage": "https://github.com/Franck-the-tank/JS_customSignage#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
